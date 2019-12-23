@@ -88,3 +88,48 @@ main {
     border: 5px solid #717171;
     box-sizing: border-box;
 }
+
+.contenedor-mensaje {
+    margin: 0 auto;
+    width: 978px;
+    height: 146px;
+    background: #FFFFFF;
+    border: 5px solid #158C12;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    color: #000000;
+    position: relative;
+    top: 60px;
+    text-align: center;
+}
+
+p1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+    position: relative;
+    top: 103px;
+    left: 24px;
+}
+
+p2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    color: #8F8F8F;
+    position: relative;
+    top: 50px;
+    left: 54px;
+}
